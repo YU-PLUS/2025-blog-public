@@ -58,7 +58,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "1134486495@qq.com",
 			"label": "",
 			"order": 1
 		}
@@ -67,6 +67,6 @@
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
-	"currentHatIndex": 4,
+	"currentHatIndex": 3,
 	"hatFlipped": false
 }
