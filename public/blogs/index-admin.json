@@ -11,6 +11,17 @@
     "hidden": false
   },
   {
+    "slug": "blog-update",
+    "title": "Blog远程仓库同步更新",
+    "tags": [
+      "#Blog远程仓库同步更新"
+    ],
+    "date": "2025-12-14",
+    "summary": "#Blog远程仓库同步更新",
+    "cover": "/blogs/blog-update/ae22fe75c165d3bf.png",
+    "hidden": false
+  },
+  {
     "slug": "liquid-grass",
     "title": "好玩的液态玻璃",
     "tags": [
